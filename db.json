@@ -1,0 +1,137 @@
+{
+  "articles": [
+    {
+      "id": 8,
+      "nom": "fezfezfezf",
+      "category": "fezfzefze",
+      "description": "fezfzefezf",
+      "content": "fezfezfezfoijpojpojpojpojpojpopopoojoppopo"
+    },
+    {
+      "nom": "fbd",
+      "category": "bdfbdbfdb",
+      "description": "bdfbfd",
+      "content": "fbfdb",
+      "id": 10
+    },
+    {
+      "nom": "gergregerg",
+      "category": "gregreg",
+      "description": "regerg",
+      "content": "gregerg",
+      "id": 11
+    },
+    {
+      "nom": "regergerg",
+      "category": "reghertehet",
+      "description": "hrthethertehrth",
+      "content": "rthezhthrth",
+      "id": 12
+    },
+    {
+      "nom": "trhgerhe",
+      "category": "herhreh",
+      "description": "thtrhtrh",
+      "content": "grgreg",
+      "id": 13
+    },
+    {
+      "nom": "hjghf",
+      "category": "hfghfh",
+      "description": "hfgh",
+      "content": "ghfghgfh",
+      "id": 14
+    }
+  ],
+  "blog": [
+    {
+      "nom": "fezfezfezf",
+      "category": "fezfzefze",
+      "description": "fezfzefezf",
+      "content": "fezfezfezf",
+      "id": 1
+    },
+    {
+      "nom": "grregreg",
+      "category": "rfgzeg",
+      "description": "gerghrhre",
+      "content": "rgrehrhe",
+      "id": 2
+    },
+    {
+      "nom": "dyufuyfuifyufyufyufyufuyfuyfuyfyufyu",
+      "category": "yufyufifuf",
+      "description": "tydfuyrf_è",
+      "content": "yfiufguififif\nyfufyufufuigiguiygiugiguig",
+      "id": 3
+    },
+    {
+      "nom": "htrhrh",
+      "category": "rthtrh",
+      "description": "hrthtr",
+      "content": "trhrthrthrt",
+      "id": 4
+    },
+    {
+      "nom": "gfsdgg",
+      "category": "gfdgdg",
+      "description": "gfgdg",
+      "content": "gsdgsgrs",
+      "id": 5
+    },
+    {
+      "nom": "tretreztr",
+      "category": "retrete",
+      "description": "retretet",
+      "content": "ztztzrtz",
+      "id": 6
+    }
+  ],
+  "gallery": [
+    {
+      "nom": "fezfezfezf",
+      "category": "fezfzefze",
+      "description": "fezfzefezf",
+      "content": "clem.jpg",
+      "id": 1
+    },
+    {
+      "nom": "vdsdfefzee",
+      "category": "rgergr",
+      "description": "rgergerg",
+      "content": "C:\\fakepath\\lemuriens-3737012.jpg",
+      "id": 2
+    }
+  ],
+  "recipe": [
+    {
+      "nom": "ASSORTIMENT DE LÉGUMES DE HAINAN",
+      "category": "Recettes Chinoise",
+      "description": "Recettes Chinoise",
+      "content": "2 navets\n2 petites carottes\n30ml d’huile d’arachide\n4 oignons verts\n480ml de bouillon de poulet\n3 queues d’asperges fraîches\n4g de sel\n120g de champignons de Paris\n1 pincée de sucre\n120g de pleurotes\n8 mini-épis de maïs doux\n15g de fond de poulet\n8 châtaignes d’eau\n120g de chair de crabe ou de crevettes non décortiquées (facultatif)\n2g de gingembre frais\n15g de légumes secs de Tientsin\nPâte de farine de maïs\nÉpluchez navets et carottes. Utilisez une cuillère à melon pour découper les navets en boules.\nDécoupez les carottes en morceaux d’1,5cm ; puis à l’aide d’un économe, faites quatre entailles\ncirculaires espacées régulièrement sur chaque morceau sans couper le centre. Les carottes\ndevraient ressembler à de petites fleurs. Faites cuire navets et carottes à feu doux dans le\nbouillon, jusqu’à ce qu’ils commencent à être tendres. Retirez-les du bouillon et plongez-les\ndans l’eau froide. Égouttez.\nCoupez oignons, asperges et baby maïs en lamelles de 4cm. Hachez ensemble gingembre\nfrais et légumes secs. Dans une petite poêle ou un bol mesureur à température moyenne, faire\nfondre le fond de poulet. Verser de l’huile d’arachide sur le wok chaud. Lorsque l’huile\ncommence à fumer, faites vivement revenir la chair de crabe ou les crevettes durant 1min.\nAjoutez asperges, maïs, champignons et châtaignes, et faites revenir jusqu’à ce que le tout soit\nchaud. Ajoutez le mélange au gingembre, puis les oignons. Laissez revenir 30sec. Ajoutez la\nmoitié du bouillon, le sel et le sucre. Portez à ébullition. Ajoutez carottes et navets.\nRecouvrez et réduisez la température ; laissez mijoter 5min. Découvrez, sortez les ingrédients\ndu bouillon, ajoutez quelques gouttes de pâte de maïs pour épaissir un peu. Remuez l’ensemble\npour éviter les grumeaux, tout en laissant épaissir. Mélangez tout en ajoutant le bouillon. Servez\nsur un plateau.",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "nom": "AGNEAU AU GINGEMBRE",
+      "category": "chinoise",
+      "description": "chinoise",
+      "content": "450g d’agneau (épaule ou gigot)\n1 gousse d’ail hachée\n30ml de Xérès\n4g de gingembre frais haché\n1g de sel\n120ml de bouillon\n2g de farine de maïs\n5ml de sauce soja légère\n120ml d’huile d’arachide\n3ml de sauce soja relevée\n4 échalotes\n2g de sucre\n1/2 grand poivron vert\n3ml de vinaigre de cidre\nDécoupez l’agneau en tranches de 5cm. Dans un bol, saupoudrez ces tranches de sel et de\nfarine de maïs, et frottez pour en pénétrer la viande. Ajoutez le Xérès. Laissez mariner l’agneau\n15min. Tranchez l’extrémité des échalotes et coupez en morceaux de 5cm. Coupez les poivrons\nen deux, videz-les et faites en des tranches de la taille des morceaux d’agneau. Mélangez le\nbouillon, la sauce soja, le sucre et le vinaigre.\nChauffez l’huile d’arachide dans un wok jusqu’à ce que de petites bulles apparaissent lorsque\nvous plongez des baguettes dans le liquide. Plongez brièvement les tranches d’agneau dans\nl’huile, jusqu’à ce que l’enveloppe de farine de maïs brunisse. Retirez la viande, placez-la dans\nune passoire et laissez-la s’égoutter. Lavez le wok de son huile de cuisson, mais conservez\ncette dernière. Replacez le wok sur un feu très vif. Lorsqu’il est très chaud, versez 30ml d’huile\nde cuisson. Dès qu’elle commence à fumer, ajoutez les échalotes et le poivron et laissez mijoter\n30sec. Saupoudrez ail et gingembre tout en cuisant. Lorsque le poivron devient vert vif, versez\nle bouillon. Remuez jusqu’à ébullition du",
+      "active": false
+    },
+    {
+      "id": 6,
+      "nom": "AUBERGINES SAUCE HOISIN À LA VIANDE ÉPICÉE",
+      "category": "chinoise",
+      "description": "AUBERGINES SAUCE HOISIN À LA VIANDE ÉPICÉE",
+      "content": "4 aubergines\n175ml de bouillon de poulet\nHuile\n30ml de sauce Hoisin\n15ml d’huile pimentée\n15ml de vinaigre de riz\n15g d’ail écrasé\n10g de farine de maïs\n220g de porc haché (vous pouvez également utiliser un mélange de boeuf et de porc)\n5ml d’eau\nSauce soja\n20g de tiges d’oignon vert hachées\nEnlevez l’extrémité des aubergines, puis séparez-les en deux sur la longueur. Coupez chaque\nmoitié en tranches d’1cm d’épaisseur. Faites-les cuire à la vapeur jusqu’à ce qu’elles soient\ntendres, ou faites-les cuire dans un bain d’huile dans une poêle à frire ou un wok jusqu’à ce\nqu’elles soient dorées. Égouttez avec du papier essuie-tout. Enlevez toute trace d’huile dans\nvotre poêle ou wok, et versez l’huile pimentée.\nChauffez à très haute température 30sec. Saupoudrez l’ail et faites cuire en remuant 10sec.\nAjoutez la viande de porc hachée, 15ml de sauce soja, le bouillon, la sauce Hoisin et laissez\nmijoter jusqu’à ce que le porc soit cuit. Rajoutez le vinaigre et les aubergines et faites\nlégèrement sauter pour mélanger les saveurs et répartir la chaleur. Si vous le souhaitez,\najoutez de la sauce soja. Faites fondre la farine de maïs dans l’eau et mélangez à la\npréparation de viande de porc. Faites cuire et remuez jusqu’à ce que les ingrédients aient une\napparence luisante. Rajoutez les oignons verts et faites mijoter 5sec.\nServez sans attendre."
+    },
+    {
+      "nom": "Empanadas (chaussons)",
+      "category": "Americain",
+      "description": "Empanadas (chaussons)",
+      "content": "ingrédients :\n-500g de farine\n-1 pincée de sel\n-125g de beurre demi-sel fondu au bain marie\n-1 jaune d'oeuf\n-huile de friture\n-1oeuf entier (facultatif)\nDans un saladier mélangez la farine et le sel. Formez un puits au centre et versez-y le beurre\nfondu.\nMélangez doucement à l'aide d'une cuillère en bois.\nAjoutez un peu d'eau tiède pour supprimer tous les grumeaux si nécessaire. Vous pouvez\négalement ajouter un oeuf. Couvrez d'un torchon et laissez reposer la pâte pendant 30 à 40 min\nà température ambiante.\nDivisez la pâte en plusieurs boules de tailles moyenne à l'aide d'un rouleau à pâtisserie et étalez\nchacune d'elle en disque circulaire de 10 à 19 cm de diamètre sur 5 mm d'épaisseur maximum.\nTaillez-les proprement à l'emporte-pièce.\nGarnissez chaque disque d'un peu de la farce choisie en fonction de la recette. En déposant\ncelle-ci sur la moitié de chaque disque.\nRefermez les disques en remplissant la partie non garnie sur la partie garnie. Reliez le bord\ninférieur sur le bord supérieur pour bien les souder. Pour cela, formez des plis en roulant les\nbords entre vos doigts.\nPréchauffez le four à 160°C. Avec un pinceau, badigeonnez les chaussons ainsi formés de jaune\nd’oeuf.\nEnfournez les chaussons pour 20 min de cuisson.",
+      "id": 7
+    }
+  ]
+}
